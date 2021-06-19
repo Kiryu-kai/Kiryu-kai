@@ -1,2 +1,7 @@
-# kiryu-kai
-What is this organization ? 初めての方へ。
+# 桐生会技術部
+
+このGitHub Organizationは、桐生会のプロジェクトをまとめるためのものです。
+
+## 関連素材
+
+https://github.com/Kiryu-kai/materials
